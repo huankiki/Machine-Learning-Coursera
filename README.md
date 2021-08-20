@@ -1,4 +1,4 @@
-# Machine-Learning
+# Machine-Learning-Coursera
 吴恩达(Andrew Ng)在Coursera上的课程《Machine Learning》的课后习题  
 上课时间：2017-7-2至2017-8-24
 
